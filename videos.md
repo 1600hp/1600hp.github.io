@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: videos
+permalink: /videos/
 ---
 
   <h1 class="page-heading">videos</h1>
