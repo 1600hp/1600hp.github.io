@@ -4,8 +4,6 @@ title: posts
 permalink: /posts/
 ---
 
-  <h1 class="page-heading">posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>

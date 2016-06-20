@@ -4,8 +4,6 @@ title: videos
 permalink: /videos/
 ---
 
-  <h1 class="page-heading">videos</h1>
-
   <ul class="video-list">
     {% for video in site.videos %}
       <li>
