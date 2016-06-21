@@ -2,11 +2,10 @@
 layout: page
 title: Everything
 permalink: /everything/
+excerpt: All the content in one place.  I went to a lot of trouble to sort it, but whatever, I guess you can ignore that.
 ---
 
   <ul class="post-list">
-    <p> All the content in one place.  I went to a lot of trouble to sort it, but whatever, I guess you can ignore that. </p>
-	<!--more-->
     {% for post in site.posts %}
 	  {% for category in post.categories %}
         <li>
