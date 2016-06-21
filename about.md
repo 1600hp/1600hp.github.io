@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-excerpt: Everything you didn't care about knowing.
+excerpt: All the stuff you didn't care about knowing.
 ---
 
 Sometimes I post stuff here.  Sometimes I don't.  Odds are this website won't even be here tomorrow.
