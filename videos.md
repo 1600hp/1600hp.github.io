@@ -2,6 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
+excerpt: In which you can watch me make a fool of myself instead of just imagining it.
 ---
 
   <ul class="post-list">
