@@ -5,6 +5,7 @@ permalink: /everything/
 ---
 
   <ul class="post-list">
+    <p> All the content in one place.  I went to a lot of trouble to sort it, but whatever, I guess you can ignore that. </p>
     {% for post in site.posts %}
 	  {% for category in post.categories %}
         <li>

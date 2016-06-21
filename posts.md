@@ -5,6 +5,7 @@ permalink: /posts/
 ---
 
   <ul class="post-list">
+    <p> Basically all the boring parts that are mostly words.  Beats me why anyone would read these. </p>
     {% for post in site.posts %}
 	  {% for category in post.categories %}
 	    {% if category == "updates" %}

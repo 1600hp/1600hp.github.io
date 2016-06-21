@@ -3,7 +3,14 @@ layout: default
 ---
 
 <div class="home">
-<div class=fill>
-  <img src="/resources/mambo.jpg">
-</div>
+
+
+{% for my_page in site.pages %}
+  {% if my_page.title %}
+  <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+  {{ my_page.excerpt }}
+  {% endif %}
+{% endfor %}
+		
+		
 </div>
