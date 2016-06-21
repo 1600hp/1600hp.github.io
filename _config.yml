@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Content creation sounds really cool, until you realize that it's just things I do when I'm bored.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://1600hp.github.io/" # the base hostname & protocol for your site
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
