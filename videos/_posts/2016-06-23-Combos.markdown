@@ -7,4 +7,6 @@ categories: videos
 
 Description pending.
 
+<div class="wrapper">
 <iframe src="https://www.youtube.com/embed/lvfv5L_B9Hk" allowfullscreen></iframe>
+</div>
