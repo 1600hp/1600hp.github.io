@@ -17,8 +17,8 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
 			  <h2>
 			    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			  </h2>
-			</a>
 			</div>
+	      </a>
           </li>
 		{% endif %}
       {% endfor %}
