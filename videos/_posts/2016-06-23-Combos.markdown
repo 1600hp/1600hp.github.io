@@ -7,4 +7,4 @@ categories: videos
 
 Description pending.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lvfv5L_B9Hk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/lvfv5L_B9Hk" allowfullscreen></iframe>

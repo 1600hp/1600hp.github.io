@@ -48,6 +48,16 @@ img {
 }
 
 /**
+ * Primarily YouTube embeds
+ */
+iframe {
+  width: 640;
+  height: 360;
+  display: block;
+  frameborder: 0;
+}
+
+/**
  * Figures
  */
 figure > img {
