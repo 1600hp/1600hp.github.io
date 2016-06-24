@@ -12,12 +12,13 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
           <li>
 		      <div style="height:200px">
 			    <div style="float:left"><a href="{{ post.url | prepend: site.baseurl }}"><img src="/videos/thumbnails/{{ post.title }}.jpg" style="width:400px;height:200px"></a></div>
-				<div style="padding:20px;background:#000;height:100%">
+				<div style="float:right;background:#000;height:100%">
 			      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 			      <h2>
 			        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			      </h2>
 				</div>
+				<br style="clear:both;"/>
 	  	      </div>
           </li>
 		{% endif %}
