@@ -26,6 +26,7 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
                   </div>
 				</div>
 				<br style="clear:both;"/>
+				<hr>
 	  	      </div>
           </li>
 		{% endif %}
