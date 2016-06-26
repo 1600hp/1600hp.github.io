@@ -10,15 +10,12 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
       {% for category in post.categories %}
         {% if category == "videos" %}
           <li>
-              <div style="background:#000;height:200px;width=$contentwidth">
-          <!--
+              <div style="background:#000;height:200px;width=$content-width">
                 <div style="float:left;width:50%;overflow:hidden">
                   <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="'/videos/thumbnails/{{ post.title }}.jpg'" style="height:200px">
+                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px">
                   </a>
                 </div>
-          -->  
-                <div id='logo' style='float:left;width:50%;background:url(/videos/thumbnails/{{ post.title }}.jpg)'></div>
                 <div style="float:right;height:100%;width:50%">
                   <div style="padding:20px">
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

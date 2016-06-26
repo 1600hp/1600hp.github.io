@@ -10,7 +10,7 @@ excerpt: All the content in one place.  I went to a lot of trouble to sort it, b
       {% for category in post.categories %}
         <li>
         
-          <div style="background:#000;height:200px;width=$contentwidth">
+          <div style="background:#000;height:200px;width=$content-width">
             {% if category == "videos" %}
               <div style="float:left;width:50%">
                 <a href="{{ post.url | prepend: site.baseurl }}">
