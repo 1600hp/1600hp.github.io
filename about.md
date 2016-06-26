@@ -10,3 +10,5 @@ Sometimes I post stuff here.  Sometimes I don't.  Odds are this website won't ev
 Find me on YouTube at [1600 HP][1600hp].
 
 [1600hp]: https://www.youtube.com/channel/UCdhTSLPGIgcSXLddKGCiHhg
+
+Please note that this site has terrible mobile support because I am a terrible website maker.
