@@ -28,12 +28,14 @@ excerpt: All the content in one place.  I went to a lot of trouble to sort it, b
               </div>
               <br style="clear:both;"/>
               <hr>
+              
             {% else %}
               <div style="padding:20px">
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                 <h2>
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
+                <hr>
                 <p style="font-size:12px">{{ post.excerpt }}</p>
               </div>
             {% endif %}
