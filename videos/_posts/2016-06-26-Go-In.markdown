@@ -8,5 +8,5 @@ excerpt: In which Potatoes demonstrate how to style on a slow start.
 
 Description pending.
 <div class="youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zCBv3n0pMS4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCBv3n0pMS4" frameborder="1" allowfullscreen></iframe>
 </div>
