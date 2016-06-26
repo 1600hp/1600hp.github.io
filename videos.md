@@ -13,7 +13,7 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
               <div style="background:#000;height:200px;width=$contentwidth">
                 <div style="float:left;width:50%;overflow:hidden">
                   <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px;width:100%">
+                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px;width:400px">
                   </a>
                 </div>
                 <div style="float:right;height:100%;width:50%">
