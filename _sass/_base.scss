@@ -180,7 +180,6 @@ pre {
 .post-snapshot {
   background:#000;
   height:100px;
-  width=$content-width;
   @include media-query($on-laptop) {
     height:200px
   }
