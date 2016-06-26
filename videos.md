@@ -17,6 +17,7 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
 			      <h2>
 			        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			      </h2>
+                  <p style="font-size:12px">{{ my_page.excerpt }}</p>
 				</div>
 				<br style="clear:both;"/>
 	  	      </div>
