@@ -10,8 +10,8 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
       {% for category in post.categories %}
         {% if category == "videos" %}
           <li>
-              <div class="post-snapshot">
-                <div style="float:left;width:50%;overflow:hidden">
+              <div style="background:#000;height:100px">
+                <div style="float:left;width:50%">
                   <a href="{{ post.url | prepend: site.baseurl }}">
                     <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px">
                   </a>
