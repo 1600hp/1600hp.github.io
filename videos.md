@@ -14,7 +14,7 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
           <!--
                 <div style="float:left;width:50%;overflow:hidden">
                   <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px">
+                    <img src="'/videos/thumbnails/{{ post.title }}.jpg'" style="height:200px">
                   </a>
                 </div>
           -->  
