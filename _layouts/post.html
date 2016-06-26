@@ -13,17 +13,17 @@ layout: default
   </div>
 
   <div>
-	{% if page.next.url %}
+	{% if page.previous.url %}
     <div style="float:left">
-	  <a hfref={{ page.next.url }}>
-	    &laquo Previous: {{ page.previous.title }}
+	  <a hfref={{ page.previous.url }}>
+	    &laquo {{ page.previous.title }}
 	  </a>
 	</div>
 	{% endif %}
 	{% if page.next.url %}
 	<div style="float:right">
-	  <a href={{ page.previous.url }}>
-	    Next:  {{ page.next.title }} &raquo
+	  <a href={{ page.next.url }}>
+	    {{ page.next.title }} &raquo
 	  </a>
 	</div>
 	{% endif %}
