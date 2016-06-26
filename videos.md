@@ -11,7 +11,7 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
         {% if category == "videos" %}
           <li>
               <div style="background:#000;height:200px;width=$contentwidth">
-                <div style="float:left;width:50%;badkground-image:/videos/thumbnails/{{ post.title }}.jpg">
+                <div style="float:left;width:50%;background-image:/videos/thumbnails/{{ post.title }}.jpg">
                 </div>
                 <div style="float:right;height:100%;width:50%">
                   <div style="padding:20px">
