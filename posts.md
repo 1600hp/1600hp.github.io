@@ -10,7 +10,7 @@ excerpt: Basically all the boring parts that are mostly words.  Beats me why any
       {% for category in post.categories %}
         {% if category == "updates" %}
           <li>
-            <div style="background:#000;height:200px;width=$content-width">
+            <div style="background:#000;height:200px">
               <div style="padding:20px">
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
