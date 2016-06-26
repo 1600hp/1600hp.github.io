@@ -17,7 +17,7 @@ excerpt: Basically all the boring parts that are mostly words.  Beats me why any
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <hr>
-                <p style="font-size:12px">{{ post.excerpt }}</p>
+                <p style="font-size:12px;margin-top:10px">{{ post.excerpt }}</p>
               </div>
             </div>
           </li>
