@@ -19,9 +19,9 @@ excerpt: In which you can watch me make a fool of myself instead of just imagini
                 <div style="float:right;height:100%;width:50%">
                   <div style="padding:20px">
                     <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                    <h2>
-                      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                    </h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                      <p style="font-size:16px"><b>{{ post.title }}</b></p>
+                    </a>
                     <p style="font-size:12px">{{ post.excerpt }}</p>
                   </div>
                 </div>

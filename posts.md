@@ -13,9 +13,9 @@ excerpt: Basically all the boring parts that are mostly words.  Beats me why any
             <div style="background:#000;height:200px;width=$content-width">
               <div style="padding:20px">
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <h2>
-                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                      <p style="font-size:16px"><b>{{ post.title }}</b></p>
+                    </a>
                 <hr>
                 <p style="font-size:12px;margin-top:10px">{{ post.excerpt }}</p>
               </div>
