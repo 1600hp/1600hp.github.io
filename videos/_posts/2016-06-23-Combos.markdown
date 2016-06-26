@@ -3,7 +3,7 @@ layout: post
 title:  "Combos"
 date:   2016-06-19 17:37:09 -0400
 categories: videos
-excerpt: An exersize in "over the top."
+excerpt: An exercize in "over the top."
 ---
 
 Description pending.
