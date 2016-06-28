@@ -60,11 +60,11 @@ $on-laptop:        800px;
     }
 
     #searchButton {
-      paddign: 0.3em 0.6em;
+      padding: 0.3em 0.6em;
       background-color: #0B5485;
       border: 1px solid #f6f5ea;
       margin-left: 0;
-      color: $white;
+      color: #fff;
       -webkit-appearance: none;
       border-radius: 0;
     }
@@ -72,7 +72,7 @@ $on-laptop:        800px;
     #archives {
       line-height: 2;
       float: left;
-      color: $black;
+      color: $000;
       text-wrap: avoid;
     }
   }
