@@ -11,6 +11,8 @@ layout: default
     {{ content }}
   <ul class="post-list">
     {% for post in site.posts %}
+      {% for tag in post.tags %}
+      {% if tag == "yugioh" %}
       {% for category in post.categories %}
         <li>
         
@@ -45,6 +47,8 @@ layout: default
             {% endif %}
           </div>
         </li>
+      {% endif %}
+      {% endfor %}
       {% endfor %}
     {% endfor %}
   </ul>
