@@ -6,7 +6,7 @@ excerpt: Want to find something?  Let me make that less unlikely.
 ---
 {% for tag in site.tags %}
   {% for page in site.tags.tag %}
-    page.title
+    {{ page.title }}
     {% assign count = forloop.length %}
   {% endfor %}
   {{ count }}
