@@ -9,6 +9,7 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+    {{targettag}}
     <ul class="post-list">
       {% for post in site.tags.{{ targettag }} %}
         {% for category in post.categories %}
