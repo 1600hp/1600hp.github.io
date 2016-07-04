@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-07-04 00:00:00 -0400
+date:   2016-07-03 11:59:59 -0400
 categories: updates
 excerpt: Welcome, to a new era of not-worth-it.
 tags: "meta"
