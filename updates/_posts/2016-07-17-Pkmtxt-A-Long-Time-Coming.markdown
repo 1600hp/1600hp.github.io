@@ -18,7 +18,6 @@ For some reason, causal determinism just keeps coming up in conversation for me.
 
 Now, like I said, this is pretty ambitious.  I'll have to design a passable emulation of Pokémon's battle system, a functional natural language interpretter, and define approximately a shit-ton of ways of interacting with the world, all while maintaining my code in such a way that it remains easily extensible and understandable.  Odds are, I won't finish this project.  Still, it'll be fun while it lasts.  I'll be posting my progress occasionally here, both to organize my thoughts, and to keep myself motivated.  With that, take a gander at the main file of Pkmtxt.
 
-{% highlight python %}
 from world import World
 from interface import Interface
 from interpreter import Interpreter
@@ -36,7 +35,6 @@ if __name__ == "__main__":
     sentence = Interface.get_sentence()
     cmd = Interpreter.interpret(cmd)
     universe.tick(cmd)
-{% endhighlight %}
 
 Well that's certainly straightforward, huh?  In english:
 - Define a universe
