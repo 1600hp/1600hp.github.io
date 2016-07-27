@@ -25,7 +25,7 @@ Okay, so the do-it-yourself quality kind of decreases with that last one, but I'
 
 Now, I have a pretty fixed design for my tokens, modeled off the real token template.  I've made a couple aesthetic changes, and I'll have to make one more here: no Power/Toughness boxes.  That space is kind of empty now, so maybe add some extra detail - something like this?
 
-<img class="post" src="/resources/tokentemplate.png">
+<img class="post" src="/resources/tokentemplate.PNG">
 
 Alright, that'll work.  I suppose I should mention the software I'm using to draft this up.  Solidworks is a powerful CAD program that UPenn's Virtual Lab gives me access to.  I've tried lower-power software like Draftsight and Solidworks 2D; the former needs an extra conversion step, and the latter is much more difficult for me to work with.  I'll stick with the overkill solution.
 
@@ -39,6 +39,6 @@ Now we have the image.  Time to shamelessly plagiarize it.  This step is both ea
 
 Once this is done, the only thing left to do on the digital end is differentiate cuts and etches.  I'll be doing some knife-work on the interior to improve the latice-like appearance, so I'll constrain my true negative space to the "background" of the art, and the circle in which the spindown will eventually be placed.
 
-<img class="post" src="/resources/cluedwg.png" style="width:100%;height:100%">
+<img class="post" src="/resources/cluedwg.PNG" style="width:100%;height:100%">
 
 Now that everything is set up digitally, I need to move to the physical side.  Unfortunately, I don't actually have MDF on me, so I won't be able to actually finish this particular token quite yet.  Look for a follow-up to this post to see how it turns out!
