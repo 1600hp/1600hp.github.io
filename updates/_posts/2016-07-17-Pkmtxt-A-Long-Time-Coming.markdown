@@ -34,7 +34,7 @@ if __name__ == "__main__":
   universe = ClockworkUniverse()
   while True:
     sentence = Interface.get_sentence()
-    cmd = Interpreter.interpret(cmd)
+    cmd = Interpreter.interpret(cmd, universe)
     universe.tick(cmd)
 {% endhighlight %}
 

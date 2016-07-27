@@ -45,13 +45,24 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
 img {
     max-width: 100%;
     vertical-align: middle;
+}
+
+/**
+ * Centered post image
+ */
+img.post{
+    height:300px;
+    border:2px solid #fafafa;
+    border-radius: 10px;
+    text-align:center;
+    display:block;
+    margin:auto;
 }
 
 /**
