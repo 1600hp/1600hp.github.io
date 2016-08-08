@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Let's Play Pokemon Uranium - A Dash of Lime"
+date:   2016-08-08 18:00:00 -0400
+categories: videos
+excerpt: "Pokemon with made-up Pokemon?  What better way to wait for Sun and Moon."
+---
+
+A friend told me to play Pokemon Uranium.  I don't know what it is.  Let's find out.
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDG3HUxsAtE" frameborder="0" allowfullscreen></iframe>
+</div>
