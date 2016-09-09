@@ -12,7 +12,7 @@ This Saturday (technically tomorrow, let's not talk about that) is a Yu-Gi-Oh re
 
 To start with, here's a bunch of cards.
 
-<img class="post" src="/resources/hotpotatoes.png" style="width:100%;height:100%">
+<img class="post" src="/resources/hotpotatoes.PNG" style="width:100%;height:100%">
 
 <h3>What is this</h3>
 Well that's... uh... certainly something.  You can call this "Kaiju Yang Zing Speedroid Deskbot Nekroz Synchron Plants" without being entirely inaccurate, but that's a mouthful and doesn't actually describe the deck very well.  If you want to call it something, Synchro Plants isn't far off (I only run six plants, but that's not far off from old-school Plant Synchro).  Personally, I call it Hot Potatoes because of reasons.
