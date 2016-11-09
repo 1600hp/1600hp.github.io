@@ -32,11 +32,11 @@ I absolutely do not think everyone should buy into this.  The implications are h
 <h4>Free will is an important concept to you</h4>
 
 This is a big one.  If free will factors strongly into your conception of yourself and the world, you are unlikely to be happy with causal determinism.  I'm not here to talk about whether or not free will is a real thing; if you want that discussion, you can find it basically anywhere.
-
+<hr>
 <h4>You enjoy being angry</h4>
 
 Anger can be cathartic.  It can feel good.  Raging at bad luck in a video game, or at someone who cut you off on the highway, or at basic injustice in society, can all feel right.  This is not a philosophy that encourages that.  Being angry at how the world is accomplishes nothing.  Things happened, now we're here. I don't mean to say that a causal determinist should ignore or avoid problems, but the philosophy lends itself more towards thinking about the future implications of the current situation than it does towards anger at the situation itself.
-
+<hr>
 <h4>You want to believe in a deeper meaning</h4>
 
 Causal determinism distinguishes itself from other types of determinism in that it doesn't care about the future.  We aren't trying to move towards a goal.  Nor is there necessarily a meaning to our actions.  We exist because the situation necessitated our existence.  We act because we are induced to act.
@@ -47,7 +47,7 @@ Causal determinism distinguishes itself from other types of determinism in that 
 <h4>Other philosophies don't seem reasonable to you</h4>
 
 Causal determinism can be a more intuitive philosophy than other options.  There isn't really a question of "why should this be true," because causality is something that is generally assumed to be true.  Breaks from causality are more remarkable.  When we aren't sure why something happened, we want it explained.  If we know why something happened, all is right with the world.
-
+<hr>
 <h4>You're tired of being angry</h4>
 
 This is why I'm writing about this now.  One of the things that I've seen over and over again today is the simple phrase "I'm tired."  Being angry is exhausting.  It can feel hopeless.  Causal determinism offers you an out.  I'll go into this in more detail a bit later on.
