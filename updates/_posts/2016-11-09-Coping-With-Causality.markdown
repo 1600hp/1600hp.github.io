@@ -26,6 +26,7 @@ Okay, so maybe this isn't as clear cut as it originally sounded.  Remember that 
 
 I absolutely do not think everyone should buy into this.  The implications are harsh, and if you aren't prepared to fully accept them, it will seem like a really depressing worldview.
 
+<div class="subsection">
 <h3>Causal Determinism may be wrong for you if...</h3>
 
 <h4>Free will is an important concept to you</h4>
@@ -39,7 +40,8 @@ Anger can be cathartic.  It can feel good.  Raging at bad luck in a video game, 
 <h4>You want to believe in a deeper meaning</h4>
 
 Causal determinism distinguishes itself from other types of determinism in that it doesn't care about the future.  We aren't trying to move towards a goal.  Nor is there necessarily a meaning to our actions.  We exist because the situation necessitated our existence.  We act because we are induced to act.
-
+</div>
+<div class="subsection">
 <h3>Causal Determinism may be right for you if...</h3>
 
 <h4>Other philosophies don't seem reasonable to you</h4>
@@ -48,4 +50,5 @@ Causal determinism can be a more intuitive philosophy than other options.  There
 
 <h4>You're tired of being angry</h4>
 
-This is why I'm writing this.  One of the things that I've seen over and over again today is the simple phrase "I'm tired."  Being angry is exhausting.  It can feel hopeless.  
+This is why I'm writing about this now.  One of the things that I've seen over and over again today is the simple phrase "I'm tired."  Being angry is exhausting.  It can feel hopeless.  Causal determinism offers you an out.  I'll go into this in more detail a bit later on.
+</div>
