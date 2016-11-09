@@ -2,7 +2,6 @@
 layout: page
 title: Everything
 permalink: /everything/
-excerpt: All the content in one place.  I went to a lot of trouble to sort it, but whatever, I guess you can ignore that.
 ---
 
   <ul class="post-list">

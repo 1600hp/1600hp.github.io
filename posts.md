@@ -2,7 +2,6 @@
 layout: page
 title: Posts
 permalink: /posts/
-excerpt: Basically all the boring parts that are mostly words.  Beats me why anyone would read these.
 ---
 
   <ul class="post-list">
