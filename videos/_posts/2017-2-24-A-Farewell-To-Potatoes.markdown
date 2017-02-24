@@ -10,6 +10,6 @@ published: true
 
 With the absurd price of Crystal Wing forcing me to sell out of Potatoes, I will no longer be playing the deck.  To wrap up an era, I provide a deck tech and a set of six quick replays to showcase how the deck plays.
 
-<div class=youtube>
+<div class=subsection>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-3cSGgNFkM" frameborder="0" allowfullscreen></iframe>
 </div>
