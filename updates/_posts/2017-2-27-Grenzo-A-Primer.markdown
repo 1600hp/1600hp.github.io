@@ -4,7 +4,7 @@ title:  "Grenzo - A Primer"
 date:   2016-2-27 00:00:00 -0400
 categories: updates
 excerpt: "I break down my combo-oriented take on Grenzo, Dungeon Warden."
-tags: "dechtechs mtg"
+tags: "decktechs mtg"
 published: true
 ---
 
@@ -13,7 +13,7 @@ published: true
 <p>Grenzo lets you pay two mana (at instant speed, and repeatedly) to put the bottom card of your library into play if it is a creature of lesser or equal power to Grenzo. Since he is an X spell, his power is equal to the mana you choose to pay, letting the selection of creatures you can grab scale with your investment.</p>
 <p>This suggests two strategies: either make Grenzo really big, and push out huge monsters on the cheap, or ensure that the creatures in your deck are small enough that even a mini Grenzo can get them. While the former is something I've tried in the past, I'll be discussing the latter here.</p>
 <p><strong>How Can We Win With Just Small Creatures?</strong></p>
-<p>Pretty easily, as it turns out. In RB we have access to some pretty nasty creature-based combos, the simplest being <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397698" target="_blank">Kiki-Jiki, Mirror Breaker</a>&nbsp;+ <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240082" target="_blank">Zealous Conscripts</a>. Oh wait, did I not mention? This is a combo deck. Yes, I'm one of those guys you heard about in the Kangee deck tech. If you didn't want to read about that, you can stop here and go try to play Grenzo with Vampire Nighthawk or Herald of Leshrac or whatever.</p>
+<p>Pretty easily, as it turns out. In RB we have access to some pretty nasty creature-based combos, the simplest being <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397698" target="_blank">Kiki-Jiki, Mirror Breaker</a>&nbsp;+ <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240082" target="_blank">Zealous Conscripts</a>. Oh wait, did I not mention? This is a combo deck. Yes, I'm one of those guys you heard about in the Kangee deck tech. If you didn't want to read about that, you can stop here and go try to play Grenzo with <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401700" target="_blank">Vampire Nighthawk</a> or <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121250" target="_blank">Herald of Leshrac</a> or whatever.</p>
 <p>I'll wait.</p>
 <p>...</p>
 <p>Are they gone? Cool. I lied about waiting.</p>
@@ -89,7 +89,7 @@ published: true
 <ul>
 <li>Always cast Grenzo for X=1, or three power. This lets you get everything in the deck except for <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207876" target="_blank">Necrotic Ooze</a>, which will probably end up getting reanimated anyway. Only cast Grenzo for X=2 if it doesn't prevent you from activating an additional time, and even then probably not.</li>
 <li>Never activate Grenzo at sorcery speed unless you're trying to win right now, or there's a problem you can't let someone untap with. You have instant speed interaction. Make sure your opponents know it. Even if you can't bluff, it's always possible to flip into something that opponents assess as a threat; it's better to do this when they can't answer at sorcery speed.</li>
-<li>Don't always cast Grenzo as soon as possible. If you have stuff to do in your hand, it's sometimes worth running out mana and utility creautres when they don't have to compete with Grenzo activations. The longer Grenzo stays on the field, the more likely he is to die, and that can be a major tempo hit if you don't have recovery options.</li>
+<li>Don't always cast Grenzo as soon as possible. If you have stuff to do in your hand, it's sometimes worth running out mana and utility creatures when they don't have to compete with Grenzo activations. The longer Grenzo stays on the field, the more likely he is to die, and that can be a major tempo hit if you don't have recovery options.</li>
 </ul>
 <p><strong>Where's That List of Combos You Promised?</strong></p>
 <p>Sure, fine. This is a partial list. I'm constantly finding new combos and interactions.</p>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Everything
+title: 1600 Horsepower
 permalink: /everything/
 ---
 
