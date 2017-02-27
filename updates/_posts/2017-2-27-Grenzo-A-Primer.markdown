@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Grenzo - A Primer"
-date:   2016-2-24 00:00:00 -0400
+date:   2016-2-27 00:00:00 -0400
 categories: updates
 excerpt: "I break down my combo-oriented take on Grenzo, Dungeon Warden."
 tags: "dechtechs mtg"
