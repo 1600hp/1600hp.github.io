@@ -12,7 +12,7 @@ permalink: /videos/
               <div style="background:#000;height:200px">
                 <div style="float:left;width:50%">
                   <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px">
+                    <img src="/videos/thumbnails/{{ post.title }}.jpg" style="height:200px;display:block;margin:auto">
                   </a>
                 </div>
                 <div style="float:right;height:100%;width:50%">
