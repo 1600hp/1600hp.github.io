@@ -7,6 +7,9 @@ excerpt: "I break down my combo-oriented take on Grenzo, Dungeon Warden."
 tags: "decktechs mtg"
 published: true
 ---
+
+<p><em>(Hello.  I'm just some random guy.  Big thanks to TooManyCardGames for hosting this deck tech.)</em></p>
+
 <img src="/resources/Grenzo.jpg" style="display:block;margin:auto">
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382276" target="_blank">Grenzo, Dungeon Warden</a>&nbsp;is a pretty strange card. He's one of only three legendary creatures with an X in the mana cost. He is one of only two cards (that I know of) which interact with the bottom of the library beyond just putting things there. Also, his hands are bigger than his face, and he's just funky lookin in general.</p>
 <hr>
@@ -117,3 +120,4 @@ published: true
 <hr>
 <p><strong>This Has Gone On Way Too Long, Wrap it Up.</strong></p>
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382276" target="_blank">Grenzo, Dungeon Warden</a>&nbsp;is a pretty cool guy. I've been playing him since I pulled the card in a Conspiracy draft over two years ago, and there's always something new to find. Practically every set gives him new toys to play with, even for a relatively focused combo list like this one. The fact that I wrote just... way too much about this should make it clear how much I like this deck. It's really cool.</p>
+<p><em>Thanks for reading, folks.  If you enjoyed this, consider checking out my youtube channel <a href="https://www.youtube.com/channel/UCdhTSLPGIgcSXLddKGCiHhg" target="_blank">1600 Horsepower</a> or my website <a href="http://https://1600hp.github.io/" target="_blank">here</a>.</p></em>
