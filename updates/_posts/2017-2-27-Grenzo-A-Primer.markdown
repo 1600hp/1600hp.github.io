@@ -41,9 +41,9 @@ published: true
 <p><em>Instants</em></p>
 <img src="/resources/ChaosWarp.jpg" style="display:block;margin:auto">
 <p>The most flexible removal in Rakdos. The <em>only</em> mana-efficient way to permanently deal with enchantments. Required.</p>
-<p>[image of Fire Covenant and Snuff Out]</p>
+<img src="/resources/GrenzoSpotRemoval.png" style="display:block;margin:auto">
 <p>The spot removal I play needs to be either super flexible or so cheap you don't need to pay for it. &nbsp;<a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159836" target="_blank">Fire Covenant</a> and <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393924" target="_blank">Snuff Out</a>&nbsp;currently fill those roles.</p>
-<p>[image of Pyroblast]</p>
+<img src="/resources/Pyroblast.jpg" style="display:block;margin:auto">
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413684" target="_blank">Pyroblast</a>&nbsp;and <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447" target="_blank">Red Blast</a>&nbsp;are really nice "gotchas" to have in your pocket. You could play both; I like just the one to keep the fear in 'em.</p>
 <img src="/resources/RakdosCharm.jpg" style="display:block;margin:auto">
 <p>None of the modes individually are good enough, but the flexibility lets this make the cut. It has game against nearly any opposing combo, can shut off value engines, and blows up that nasty early game <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420889" target="_blank">Sol Ring</a>. Couldn't ask for more.</p>
@@ -55,7 +55,7 @@ published: true
 <p><em>Artifacts</em></p>
 <img src="/resources/GrenzoAltar.jpg" style="display:block;margin:auto">
 <p>Convert a creature into another flip. Seems fair, given that it's roughly a 50% exchange rate with the deck's composition, and it is fair, until you combine it with other cards.</p>
-<p>[image of Heartstone and Illusionist's Bracers]</p>
+<img src="/resources/GrenzoDoublers.png" style="display:block;margin:auto">
 <p>Just double your flips. That's enough. &nbsp;The fact that I'm running <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366426" target="_blank">Bracers</a>&nbsp;should tell you how good Heartstone is.</p>
 <img src="/resources/Skullclamp.jpg" style="display:block;margin:auto">
 <p>Fixes iffy draws, recovers you from certain doom, goes crazy with <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383094" target="_blank">Skirge Familiar</a>. This is banned in modern for a reason.</p>
