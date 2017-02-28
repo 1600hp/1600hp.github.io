@@ -31,7 +31,7 @@ published: true
 <p>Recurring resources is pretty important here, as bringing back a key combo piece from the grave is generally easier than trying to get a funcitonal copy from the library. <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410019" target="_blank">Epitaph Golem</a>&nbsp;is the sleeper hit here, in its repeatability and the sheer number of combos it enables.</p>
 <img src="/resources/GrenzoHaste.jpg" style="display:block;margin:auto">
 <p>Sources of haste allow you to often play one turn ahead with mana dorks and reanimator creatures.</p>
-<p>[image of Bone Shredder, Crypt Rats, Duplicant, Ingot Chewer, Viashino Heretic]</p>
+<img src="/resources/GrenzoRemoval.jpg" style="display:block;margin:auto">
 <p>If there's one thing Rakdos is good at, it's removal. This package is relatively small compared to what we could be playing; in a meta with more things like <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193660" target="_blank">Linvala</a>&nbsp;or <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397880" target="_blank">Elesh Norn</a>, I would definitely expand this list.</p>
 <p>[image of Blood Artist, Carrion Feeder, Zulaport Cutthroat, Zealous Conscripts, Viscera Seer, Kiki-Jiki, Mirror Breaker, Necrotic Ooze, Mogg Fanatic, Ogre Slumlord, Pawn of Ulamog]</p>
 <p>Some combination of these creatures is responsible for the vast majority of the deck's wins. Again, I'll give a more full list of combos later on.</p>
