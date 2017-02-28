@@ -7,7 +7,7 @@ excerpt: "I break down my combo-oriented take on Grenzo, Dungeon Warden."
 tags: "decktechs mtg"
 published: true
 ---
-
+<img src="/resources/Grenzo.jpg" style="display:block;margin:auto">
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382276" target="_blank">Grenzo, Dungeon Warden</a>&nbsp;is a pretty strange card. He's one of only three legendary creatures with an X in the mana cost. He is one of only two cards (that I know of) which interact with the bottom of the library beyond just putting things there. Also, his hands are bigger than his face, and he's just funky lookin in general.</p>
 <p><strong>So Wait, What Does Grenzo Do Again?</strong></p>
 <p>Grenzo lets you pay two mana (at instant speed, and repeatedly) to put the bottom card of your library into play if it is a creature of lesser or equal power to Grenzo. Since he is an X spell, his power is equal to the mana you choose to pay, letting the selection of creatures you can grab scale with your investment.</p>
