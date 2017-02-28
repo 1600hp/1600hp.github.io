@@ -39,33 +39,33 @@ published: true
 <p>These guys are more generalized utility. The slots are pretty flexible, none are required for the deck to accomplish its plan.</p>
 <p>So there's all your creatures. The non-creatures have to be pretty darn good to justify the slot, so I'll address these individually.</p>
 <p><em>Instants</em></p>
-<p>[image of Chaos Warp]</p>
+<img src="/resources/ChaosWarp.jpg" style="display:block;margin:auto">
 <p>The most flexible removal in Rakdos. The <em>only</em> mana-efficient way to permanently deal with enchantments. Required.</p>
 <p>[image of Fire Covenant and Snuff Out]</p>
 <p>The spot removal I play needs to be either super flexible or so cheap you don't need to pay for it. &nbsp;<a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159836" target="_blank">Fire Covenant</a> and <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=393924" target="_blank">Snuff Out</a>&nbsp;currently fill those roles.</p>
 <p>[image of Pyroblast]</p>
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413684" target="_blank">Pyroblast</a>&nbsp;and <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202447" target="_blank">Red Blast</a>&nbsp;are really nice "gotchas" to have in your pocket. You could play both; I like just the one to keep the fear in 'em.</p>
-<p>[image of Rakdos Charm]</p>
+<img src="/resources/RakdosCharm.jpg" style="display:block;margin:auto">
 <p>None of the modes individually are good enough, but the flexibility lets this make the cut. It has game against nearly any opposing combo, can shut off value engines, and blows up that nasty early game <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420889" target="_blank">Sol Ring</a>. Couldn't ask for more.</p>
 <p><em>Sorceries</em></p>
-<p>[image of Dread Return]</p>
+<img src="/resources/DreadReturn.jpg" style="display:block;margin:auto">
 <p>This one is something I'm trying out. The flashback on this is the only reason it's here, since it's more likely to hit the grave than it is to be drawn.</p>
-<p>[image of Vandalblast]</p>
+<img src="/resources/Vandalblast.jpg" style="display:block;margin:auto">
 <p>This should probably go in every red deck, honestly.</p>
 <p><em>Artifacts</em></p>
-<p>[image of Ashnod's Altar]</p>
+<img src="/resources/GrenzoAltar.jpg" style="display:block;margin:auto">
 <p>Convert a creature into another flip. Seems fair, given that it's roughly a 50% exchange rate with the deck's composition, and it is fair, until you combine it with other cards.</p>
 <p>[image of Heartstone and Illusionist's Bracers]</p>
 <p>Just double your flips. That's enough. &nbsp;The fact that I'm running <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366426" target="_blank">Bracers</a>&nbsp;should tell you how good Heartstone is.</p>
-<p>[image of Skullclamp]</p>
+<img src="/resources/Skullclamp.jpg" style="display:block;margin:auto">
 <p>Fixes iffy draws, recovers you from certain doom, goes crazy with <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383094" target="_blank">Skirge Familiar</a>. This is banned in modern for a reason.</p>
-<p>[image of Sol Ring]</p>
+<img src="/resources/Sol Ring.jpg" style="display:block;margin:auto">
 <p>Auto-include in... everything?</p>
 <p><em>Enchantments</em></p>
-<p>[image of Mana Echoes]</p>
+<img src="/resources/GrenzoEchoes.jpg" style="display:block;margin:auto">
 <p>Oh boy, this thing. It's worth rephrasing exactly what this card does. Whenever a creature comes into play, on anyone's field, you get one colorless mana per creature you ocntrol that shares a creature type with it. If it was your creature, you get one mana for itself. If you stack triggers such that more creatures come into play with this ability on the stack, you can start getting mana on the order of polynomials. This card is actually absurd. If you untap with it, you will almost always win. I've seen someone try to <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651" target="_blank">Reclamation Sage</a>&nbsp;it down, only to win in response because I controlled a Shaman, and that gave me enough mana to kill everyone on the stack. Of all the cards in the deck, this is the single one that will win the game on its own.</p>
 <p>...What's that? You say there's one more? Oh... that one.</p>
-<p>[image of Doomsday]</p>
+<img src="/resources/GrenzoDoomsday.jpg" style="display:block;margin:auto">
 <p>Okay, so <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15397" target="_blank">Doomsday</a>. You cast it, stack the 5 cards you need to win, activate Grenzo once, and you win. The competitive EDH version of Grenzo does exactly this, because it is in fact the most efficient, deterministic way to win with Grenzo. It's also, uhhhh... super boring. For the sake of fun, I generally don't cast this card that often. It's just way too easy, and turns the game into "Do you have an answer, like, right now? k i win."</p>
 <p>If you really want to know what Doomsday piles work best:</p>
 <ul>
