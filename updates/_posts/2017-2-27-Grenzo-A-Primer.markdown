@@ -23,7 +23,7 @@ published: true
 <p>Fine, fine. You can find the most updated list on Tappedout here: [[TODO]].</p>
 <p><em>Creatures</em></p>
 <p>When I activate Grenzo, I want a greater than 50% chance of it paying off. As such, I run over 50 creatures.</p>
-<p>[image of Bog Witch, Hedron Crawler, Iron Myr, Leaden Myr, Manakin, Millikin, Opaline Unicorn, Palladium Myr, Plague Myr, Crypt Ghast, Solemn Simulacrum]</p>
+<img src="/resources/GrenzoDorks.jpg" style="display:block;margin:auto">
 <p>Mana dorks are incredibly important to the deck's strategy. Ramping by only one land per turn is not sufficient, so there needs to be some amount of creatures that give you consistent mana increases across turns. This is both so you can flip increasingly large numbers of cards (which get you more mana), and so you can cast actual spells while still holding up Grenzo activations.</p>
 <p>[image of Workhorse, Treasonous Ogre, Soldevi Adnate, Skirge Familiar, Simian Spirit Guide, Priest of Urabrask, Priest of Gix, Overeager Apprentice, Emrakul's Hatcher]</p>
 <p>These creatures provide less reliable mana production, but generally in greater bursts. They allow you to flip more creatures in a turn than normal, leading to unexpected wins.</p>
