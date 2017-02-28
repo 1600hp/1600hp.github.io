@@ -20,7 +20,7 @@ published: true
 <p>The other standalone combo we're playing is <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207876" target="_blank">Necrotic Ooze</a>. Since we spend most of the game milling ourselves, and our curve is pretty low to begin with, the <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=184563" target="_blank">Phyrexian Devourer</a>/<a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=206719" target="_blank">Triskelion</a>&nbsp;win isn't very reliable. I've opted for <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397698" target="_blank">Kiki-Jiki</a>&nbsp;+ <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413680" target="_blank">Mogg Fanatic</a>&nbsp;in its place. Tap Necrotic Ooze to copy itself with haste, rinse and repeat until you have half a billion Oozes, then sacrifice them all to ping people to death.</p>
 <p>I specify "standalone combo" here because there are numerous loops that require Grenzo to be in play, many of which have interchangable or surprising pieces. I will go over these in more detail later, but for now it's sufficient to get the idea of what the deck is trying to do: flip through as much of the library as possible, stabilize a loop, repeat until you've won.</p>
 <p><strong>Just Show Me the List Already.</strong></p>
-<p>Fine, fine. You can find the most updated list on Tappedout here: [[TODO]].</p>
+<p>Fine, fine. You can find the most updated list on Tappedout <a href="http://tappedout.net/mtg-decks/combo-grenzo/" target="_blank">here</a>.</p>
 <p><em>Creatures</em></p>
 <p>When I activate Grenzo, I want a greater than 50% chance of it paying off. As such, I run over 50 creatures.</p>
 <img src="/resources/GrenzoDorks.jpg" style="display:block;margin:auto">
@@ -33,9 +33,9 @@ published: true
 <p>Sources of haste allow you to often play one turn ahead with mana dorks and reanimator creatures.</p>
 <img src="/resources/GrenzoRemoval.jpg" style="display:block;margin:auto">
 <p>If there's one thing Rakdos is good at, it's removal. This package is relatively small compared to what we could be playing; in a meta with more things like <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193660" target="_blank">Linvala</a>&nbsp;or <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397880" target="_blank">Elesh Norn</a>, I would definitely expand this list.</p>
-<p>[image of Blood Artist, Carrion Feeder, Zulaport Cutthroat, Zealous Conscripts, Viscera Seer, Kiki-Jiki, Mirror Breaker, Necrotic Ooze, Mogg Fanatic, Ogre Slumlord, Pawn of Ulamog]</p>
+<img src="/resources/GrenzoCombo.jpg" style="display:block;margin:auto">
 <p>Some combination of these creatures is responsible for the vast majority of the deck's wins. Again, I'll give a more full list of combos later on.</p>
-<p>[image of Bloodghast, Bog Initiate, Disciple of Bolas, Goblin Matron, Gonti, Lord of Luxury, Grim Haruspex, Hope of Ghirapur, Insolent Neonate, Mad Auntie, Pilgrim's Eye]</p>
+<img src="/resources/GrenzoMisc.jpg" style="display:block;margin:auto">
 <p>These guys are more generalized utility. The slots are pretty flexible, none are required for the deck to accomplish its plan.</p>
 <p>So there's all your creatures. The non-creatures have to be pretty darn good to justify the slot, so I'll address these individually.</p>
 <p><em>Instants</em></p>
