@@ -25,9 +25,9 @@ published: true
 <p>When I activate Grenzo, I want a greater than 50% chance of it paying off. As such, I run over 50 creatures.</p>
 <img src="/resources/GrenzoDorks.jpg" style="display:block;margin:auto">
 <p>Mana dorks are incredibly important to the deck's strategy. Ramping by only one land per turn is not sufficient, so there needs to be some amount of creatures that give you consistent mana increases across turns. This is both so you can flip increasingly large numbers of cards (which get you more mana), and so you can cast actual spells while still holding up Grenzo activations.</p>
-<p>[image of Workhorse, Treasonous Ogre, Soldevi Adnate, Skirge Familiar, Simian Spirit Guide, Priest of Urabrask, Priest of Gix, Overeager Apprentice, Emrakul's Hatcher]</p>
+<img src="/resources/GrenzoRituals.jpg" style="display:block;margin:auto">
 <p>These creatures provide less reliable mana production, but generally in greater bursts. They allow you to flip more creatures in a turn than normal, leading to unexpected wins.</p>
-<p>[image of Apprentice Necromancer, Balthor the Defiled, Doomed Necromancer, Epitaph Golem, Goblin Welder]</p>
+<img src="/resources/GrenzoRecursion.jpg" style="display:block;margin:auto">
 <p>Recurring resources is pretty important here, as bringing back a key combo piece from the grave is generally easier than trying to get a funcitonal copy from the library. <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410019" target="_blank">Epitaph Golem</a>&nbsp;is the sleeper hit here, in its repeatability and the sheer number of combos it enables.</p>
 <p>[image of Anger, Hellraiser Goblin, Olivia, Moblized for War]</p>
 <p>Sources of haste allow you to often play one turn ahead with mana dorks and reanimator creatures.</p>
@@ -49,7 +49,7 @@ published: true
 <p>None of the modes individually are good enough, but the flexibility lets this make the cut. It has game against nearly any opposing combo, can shut off value engines, and blows up that nasty early game <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420889" target="_blank">Sol Ring</a>. Couldn't ask for more.</p>
 <p><em>Sorceries</em></p>
 <p>[image of Dread Return]</p>
-<p>Also something I'm trying out. The flashback on this is the only reason it's here, since it's more likely to hit the grave than it is to be drawn.</p>
+<p>This one is something I'm trying out. The flashback on this is the only reason it's here, since it's more likely to hit the grave than it is to be drawn.</p>
 <p>[image of Vandalblast]</p>
 <p>This should probably go in every red deck, honestly.</p>
 <p><em>Artifacts</em></p>
