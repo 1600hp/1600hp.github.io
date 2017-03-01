@@ -8,6 +8,8 @@ tags: "decktechs mtg"
 published: true
 ---
 
+Hey all.  I wrote up a primer for my Grenzo, Dungeon Warden EDH deck.  You can find it <a herf="https://toomanycardgames.com/2017/03/01/magic-the-gathering-competitive-edh-primer-grenzo-dungeon-warden-who-pays-for-their-creatures/" target="_blank">here</a>.
+<!--
 <p><em>(Hello.  I'm just some random guy.  Big thanks to TooManyCardGames for hosting this deck tech.)</em></p>
 
 <img src="/resources/Grenzo.jpg" style="display:block;margin:auto">
@@ -120,4 +122,4 @@ published: true
 <hr>
 <p><strong>This Has Gone On Way Too Long, Wrap it Up.</strong></p>
 <p><a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382276" target="_blank">Grenzo, Dungeon Warden</a>&nbsp;is a pretty cool guy. I've been playing him since I pulled the card in a Conspiracy draft over two years ago, and there's always something new to find. Practically every set gives him new toys to play with, even for a relatively focused combo list like this one. The fact that I wrote just... way too much about this should make it clear how much I like this deck. It's really cool.</p>
-<p><em>Thanks for reading, folks.  If you enjoyed this, consider checking out my youtube channel <a href="https://www.youtube.com/channel/UCdhTSLPGIgcSXLddKGCiHhg" target="_blank">1600 Horsepower</a> or my website <a href="https://1600hp.github.io/" target="_blank">here</a>.</em></p>
+<p><em>Thanks for reading, folks.  If you enjoyed this, consider checking out my youtube channel <a href="https://www.youtube.com/channel/UCdhTSLPGIgcSXLddKGCiHhg" target="_blank">1600 Horsepower</a> or my website <a href="https://1600hp.github.io/" target="_blank">here</a>.</em></p>//-->
