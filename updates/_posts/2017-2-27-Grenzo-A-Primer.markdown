@@ -8,4 +8,4 @@ tags: "decktechs mtg"
 published: true
 ---
 
-Hey all.  I wrote up a primer for my Grenzo, Dungeon Warden EDH deck.  You can find it <a herf="https://toomanycardgames.com/2017/03/01/magic-the-gathering-competitive-edh-primer-grenzo-dungeon-warden-who-pays-for-their-creatures/" target="_blank">here</a>.
+Hey all.  I wrote up a primer for my Grenzo, Dungeon Warden EDH deck.  You can find it <a href="https://toomanycardgames.com/2017/03/01/magic-the-gathering-competitive-edh-primer-grenzo-dungeon-warden-who-pays-for-their-creatures/" target="_blank">here</a>.
