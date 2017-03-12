@@ -5,7 +5,7 @@ date:   2016-11-09 11:59:59 -0400
 categories: updates
 excerpt: "A crash course in causal determinism and living with the future."
 tags: "serious"
-published: false
+published: true
 ---
 
 Donald Trump will be the next president of the United States.
