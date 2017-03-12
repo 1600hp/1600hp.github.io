@@ -27,4 +27,9 @@ Okay, so maybe this isn't as clear cut as it originally sounded.  Remember that 
 I absolutely do not think everyone should buy into this.  The implications are harsh, and if you aren't prepared to fully accept them, it will seem like a really depressing worldview.  For some, though, it has a lot of merit, both as a way of understanding the world, and a way of coping with it.  I, of course, am in the latter group, or I wouldn't be writing this now, would I?
 
 <div class="subsection">
+<h3>Life as a Pool Table</h3>
+
+The analogy I always end up using is a pool table.  In simplified terms, pool tables are quite predictable.  The imperfections of the table, the precise angle of the cue's impact, and innumerable other factors, though, combine to make prediction an estimate at best.
+
+To a causal determinist, this is the case only because of a lack of knowledge.  A human cannot predict the motion of the table, because a human cannot know the state of the table and the forces that act upon it with the infinitesimal precision required to draw the correct conclusion.  Should that mean that the motion is non-deterministic, that if you set up the table in <em>exactly</em> the same way a second time, the same result will not arise?  In this limited example, I think many would agree with me that the pool table is deterministic, regardless of our ability to predict it.
 </div>
