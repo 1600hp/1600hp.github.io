@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yoko Turbo"
-date:   2016-2-24 00:00:01 -0400
+date:   2017-2-24 00:00:01 -0400
 categories: videos
 excerpt: "Part of my ongoing quest to make Yokotuner appear playable."
 tags: "replays yugioh"

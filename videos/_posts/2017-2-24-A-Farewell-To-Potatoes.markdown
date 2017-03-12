@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Farewell to Potatoes"
-date:   2016-2-24 00:00:00 -0400
+date:   2017-2-24 00:00:00 -0400
 categories: videos
 excerpt: "I say goodbye to an old friend, and complain about devpro players."
 tags: "dechtechs replays yugioh"
