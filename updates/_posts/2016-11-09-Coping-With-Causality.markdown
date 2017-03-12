@@ -8,13 +8,7 @@ tags: "serious"
 published: true
 ---
 
-Donald Trump will be the next president of the United States.
-
-Over the past 24 hours, I've seen many of my friends say some pretty negative things about this fact.  There's a shadow over liberal America.  There's a lot of "how did it come to this," a lot of blame being thrown around, and a lot of anger and grief.
-
-All these things have their time and place.  I don't believe that is here and now.
-
-But how do you keep negativity from getting to you?  Whether something large, like a new president, or something small, like a mistake that makes you hate yourself a little, negativity is pervasive.  It can be hard to cope without descending into it.  For me, causal determinism helps.
+<img class="post" src="/resources/CDtitle.jpg">
 
 <h2>What is Causal Determinism?</h2>
 
