@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "60-Card Quasar"
-date:   2017-3-26 17:00:00 -0400
+title:  "Yoko Turbo"
+date:   2017-2-24 17:00:00 -0400
 categories: videos
 excerpt: "Part of my ongoing quest to make Yokotuner appear playable."
 tags: "replays yugioh"
