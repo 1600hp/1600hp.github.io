@@ -12,6 +12,6 @@ Post-link, it will be nearly impossible to summon Shooting Quasar Dragon using s
 
 <div style="margin:auto;width:560px;padding:3px">
 
-<iframe width="560" height="315" src="https://youtu.be/U4w9xkDH_Rk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4w9xkDH_Rk" frameborder="0" allowfullscreen></iframe>
 
 </div>

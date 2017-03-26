@@ -14,6 +14,6 @@ Also pictured: A guy who is apparently very sick of Infernoids.
 
 <div style="margin:auto;width:560px;padding:3px">
 
-<iframe width="560" height="315" src="https://youtu.be/kxEjM6S92vo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxEjM6S92vo" frameborder="0" allowfullscreen></iframe>
 
 </div>
