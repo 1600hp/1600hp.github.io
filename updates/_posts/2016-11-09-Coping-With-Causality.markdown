@@ -5,7 +5,7 @@ date:   2016-11-09 11:59:59 -0400
 categories: updates
 excerpt: "A crash course in causal determinism and living with the future."
 tags: "serious"
-published: true
+published: false
 ---
 
 Hello.  I am a causal determinist.  I'm about to explain what that means, why it matters, and probably some other stuff.  First, the one-sentence version:
@@ -29,7 +29,7 @@ I absolutely do not think everyone should buy into this.  The implications are h
 <div class="subsection">
 <h3>Life as a Pool Table</h3>
 
-The analogy I always end up using is a pool table.  In simplified terms, pool tables are quite predictable.  The imperfections of the table, the precise angle of the cue's impact, and innumerable other factors, though, combine to make prediction an estimate at best.
+<p>The analogy I always end up using is a pool table.  In simplified terms, pool tables are quite predictable.  In practice, though, the imperfections of the table, the precise angle of the cue's impact, and innumerable other factors combine to make prediction an estimate at best.</p>
 
-To a causal determinist, this is the case only because of a lack of knowledge.  A human cannot predict the motion of the table, because a human cannot know the state of the table and the forces that act upon it with the infinitesimal precision required to draw the correct conclusion.  Should that mean that the motion is non-deterministic, that if you set up the table in <em>exactly</em> the same way a second time, the same result will not arise?  In this limited example, I think many would agree with me that the pool table is deterministic, regardless of our ability to predict it.
+<p>To a causal determinist, this is the case only because of a lack of knowledge.  A human cannot predict the motion of the table, because a human cannot know the state of the table and the forces that act upon it with the infinitesimal precision required to draw the correct conclusion.  Should that mean that the motion is non-deterministic, that if you set up the table in <em>exactly</em> the same way a second time, the same result will not arise?  In this limited example, I think many would agree with me that the pool table is deterministic, regardless of our ability to predict it.</p>
 </div>
