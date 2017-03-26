@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "60-Card Quasar"
+title:  "60 Card Quasar"
 date:   2017-3-26 17:00:00 -0400
 categories: videos
 excerpt: "Just some Quasar replays with a really big deck."
