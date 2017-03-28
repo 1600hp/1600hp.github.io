@@ -8,7 +8,7 @@ tags: "mtg"
 published: true
 ---
 
-(If you missed the primer for Grenzo, Dungeon Warden, catch up with the full dech tech <a href=https://toomanycardgames.com/2017/03/01/magic-the-gathering-competitive-edh-primer-grenzo-dungeon-warden-who-pays-for-their-creatures/" target="_blank">here</a>.)
+(If you missed the primer for Grenzo, Dungeon Warden, catch up with the full dech tech <a href="https://toomanycardgames.com/2017/03/01/magic-the-gathering-competitive-edh-primer-grenzo-dungeon-warden-who-pays-for-their-creatures/" target="_blank">here</a>.)
 
 I was recently able to trade for a few cards with which to upgrade my Grenzo EDH list.  Here's the thought process behind these particular improvements.
 
