@@ -17,7 +17,7 @@ I was recently able to trade for a few cards with which to upgrade my Grenzo EDH
 
 Chrome Mox is the shakiest of the additions.  It's currently taking the place of a land, to provide slightly more speed getting out of the gate.  As is always the case with fast mana, it also lets me turn card-draw intensive lines (such as with <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394075" target="_blank">Grim Haruspex</a>) into mana to continue playing.  Time will hopefully show whether the incremental improvements it adds are worth the card disadvantage.
 
-<div style="text-align:center;margin:auto">
+<div style="text-align:center;margin:auto;padding:10px">
 <img src="/resources/Foothills.png" style="border:2px solid #fafafa;border-radius:10px">
 <img src="/resources/mire.jpg" style="border:2px solid #fafafa;border-radius:10px">
 <img src="/resources/Delta.png" style="border:2px solid #fafafa;border-radius:10px">
@@ -25,7 +25,7 @@ Chrome Mox is the shakiest of the additions.  It's currently taking the place of
 
 The first three fetches to be acquired for Grenzo.  I'm hoping to pick up more as I go.  Beyond the simple duties of mana fixing and consistency, the fetches do a fair amount in Grenzo in particular.  While they could be played in any deck to ever-so-slightly decrease the number of lands remaining in the library, with Grenzo up and running, this is twice as effective, as you are pulling cards off of both the top and the bottom.  There is also incremental synergy with the Hideaway lands, but that's less concerning than the main two benefits.
 
-<div style="text-align:center;margin:auto">
+<div style="text-align:center;margin:auto;padding:10px">
 <img src="/resources/BloodMoon.png" style="border:2px solid #fafafa;border-radius:10px">
 <img src="/resources/Magus.jpg" style="border:2px solid #fafafa;border-radius:10px">
 </div>
