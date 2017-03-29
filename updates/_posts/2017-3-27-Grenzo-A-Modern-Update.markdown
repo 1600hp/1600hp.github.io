@@ -40,4 +40,4 @@ Cabal Coffers was removed for Chrome Mox.  While this isn't exactly an impressiv
 
 Crypt Rats and Olivia, Mobilized for War were removed for the two Moons.  Both of these cards were of quite marginal use, rarely being actually useful.  In this update, I'm going down by one creature, but ideally the thinning provided by the fetches will make up for the slight difference.
 
-Well, that's about it for the updates.  It feels good to finally be comfortable with my list to the point where I can start focusing on pricier additions.  For the future, hopefully more fetches, Magus of the Moon, Dark Confidant, and more.
+Well, that's about it for the updates.  It feels good to finally be comfortable with my list to the point where I can start focusing on pricier additions.  For the future, I'm looking at more fetches, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?name=contamination" target="_blank">Contamination</a> as a third Moon effect, and hopefully someday working up to Dark Confidant, Mana Crypt, and Badlands.
