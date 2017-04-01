@@ -47,6 +47,6 @@ Cabal Coffers and Flamekin Village were removed for the mana artifacts.  While t
 
 Crypt Rats and Olivia, Mobilized for War were removed for the two Moons.  Both of these cards were of quite marginal use, rarely being actually useful.  In this update, I'm going down by one creature, but ideally the thinning provided by the fetches will make up for the slight difference.
 
-Rakdos Charm was removed for Necropotence.  While I feel Rakdos Charm is still a surpassingly versitile spell, it can't compare to the raw power of Necro.  If I find my interaction is too low, I may find another place for it elsewhere in the list.
+Rakdos Charm was removed for Necropotence.  While I feel Rakdos Charm is still a surpassingly versatile spell, it can't compare to the raw power of Necro.  If I find my interaction is too low, I may find another place for it elsewhere in the list.
 
 Well, that's about it for the updates.  It feels good to finally be comfortable with my list to the point where I can start focusing on pricier additions.  For the future, I'm looking at more fetches, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?name=contamination" target="_blank">Contamination</a> as a third Moon effect, and hopefully someday working up to Dark Confidant, Mana Crypt, and Badlands.
