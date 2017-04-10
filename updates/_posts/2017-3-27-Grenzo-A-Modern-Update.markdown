@@ -37,7 +37,7 @@ I think I'm actually at a point where my manabase can reliably support Necropote
 <img src="/resources/Magus.jpg" style="border:2px solid #fafafa;border-radius:10px">
 </div>
 
-And finally, Blood Moon and Magus of the Moon.  Blood Moon was a trade from the latest Modern Masters set, and I'm interested to see how it works.  I have essentially no experience playing with this card, but I am hoping my relatively high Swamp count will make the downsides negligible.  Magus of the Moon is essentially just a better version, since it is a viable Grenzo hit.
+And finally, Blood Moon and Magus of the Moon.  Blood Moon was a trade from the latest Modern Masters set, and I'm interested to see how it works.  I have essentially no experience playing with this card, but I am hoping my relatively high Swamp count will make the downsides negligible.  Magus of the Moon is just a better version, since it is a viable Grenzo hit.
 
 To briefly list the cuts:
 
@@ -45,7 +45,7 @@ Two Mountains and a Swamp were removed for the fetches.  The fetches are essenti
 
 Cabal Coffers and Flamekin Village were removed for the mana artifacts.  While this isn't exactly an impressively fast list as far as combo decks go, Coffers was a type of hedging that essentially required that I be losing the game in order to use it.  It's possible Command Beacon could fill the same roll better, but for now I'm just cutting it.  As for Flamekin Village... I'm not sure I ever actually activated it.
 
-Crypt Rats and Olivia, Mobilized for War were removed for the two Moons.  Both of these cards were of quite marginal use, rarely being actually useful.  In this update, I'm going down by one creature, but ideally the thinning provided by the fetches will make up for the slight difference.
+Crypt Rats and Gonti, Lord of Luxury were fairly marginal, rarely being actually useful.  In this update, I'm going down by one creature, but ideally the thinning provided by the fetches will make up for the slight difference.
 
 Rakdos Charm was removed for Necropotence.  While I feel Rakdos Charm is still a surpassingly versatile spell, it can't compare to the raw power of Necro.  If I find my interaction is too low, I may find another place for it elsewhere in the list.
 
