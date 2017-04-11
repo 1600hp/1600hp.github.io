@@ -16,4 +16,4 @@ In one of my first forays into MTGO Commander, I play against Atraxa Superfriend
 
 </div>
 
-You can find the paper list for my Grenzo deck <a src="http://tappedout.net/mtg-decks/combo-grenzo/">here</a>.  The MTGO list is significantly more budget.
+You can find the paper list for my Grenzo deck <a href="http://tappedout.net/mtg-decks/combo-grenzo/" target="_blank">here</a>.  The MTGO list is significantly more budget.
