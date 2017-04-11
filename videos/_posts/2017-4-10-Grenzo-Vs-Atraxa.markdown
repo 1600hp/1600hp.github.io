@@ -4,7 +4,7 @@ title:  "Grenzo Vs Atraxa"
 date:   2017-4-10 00:00:00 -0400
 categories: videos
 excerpt: "As I start playing Magic Online in earnest, an opposing Tamiyo threatens to go ultimate."
-tags: "replays magic"
+tags: "replays mtg"
 published: true
 ---
 
