@@ -3,12 +3,10 @@ layout: post
 title:  "MTGO Modern Cube"
 date:   2017-4-16 00:00:00 -0400
 categories: videos
-excerpt: "As I start playing Magic Online in earnest, an opposing Tamiyo threatens to go ultimate."
+excerpt: "I venture into MTGO's Modern cube draft, and take roughly all the lands in a bid to play a 4 color deck."
 tags: "replays mtg"
 published: true
 ---
-
-I venture into MTGO's Modern cube draft, and take roughly all the lands in a bid to play a 4 color deck.
 
 <div style="margin:auto;width:560px;padding:3px">
 
