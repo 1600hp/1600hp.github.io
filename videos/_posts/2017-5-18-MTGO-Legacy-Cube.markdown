@@ -19,9 +19,8 @@ published: true
 </div>
 
 <div style="margin:auto;width:560px;padding:3px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zKct5MFCzds" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xom7Y_m45BY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div style="margin:auto;width:560px;padding:3px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zKct5MFCzds" frameborder="0" allowfullscreen></iframe>
+<div style="margin:auto;width:560px;padding:3px"><iframe width="560" height="315" src="https://www.youtube.com/embed/v21foQvfARU" frameborder="0" allowfullscreen></iframe>
 </div>
