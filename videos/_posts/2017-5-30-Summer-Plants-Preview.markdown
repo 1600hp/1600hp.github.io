@@ -4,7 +4,7 @@ title:  "Summer Plants - Preview"
 date:   2017-5-20 00:00:00 -0400
 categories: videos
 excerpt: "Can plants survive the emergency banlist?  I dunno.  Probably."
-tags: "dechtechs replays yugioh"
+tags: "replays yugioh"
 published: true
 ---
 
