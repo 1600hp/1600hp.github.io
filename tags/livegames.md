@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-excerpt: livegames
+excerpt: letsplays
 ---
-Generally commentated recordings of games I play live.
+Games that aren't card games.
 
-{% assign targettag = 'livegames' %}
+{% assign targettag = 'letsplays' %}
