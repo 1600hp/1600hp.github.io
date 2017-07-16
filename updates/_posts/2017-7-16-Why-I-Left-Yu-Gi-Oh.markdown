@@ -38,7 +38,7 @@ Matchups varied widely.  My favorite was against Shaddolls, pre-Construct ban (s
 Both of these decks are fun to play.  I made both very much my own.  I spent months on Ghosts, and <em>years</em> on Potatoes.  And once the Link rules become official, neither will be playable anymore.
 </p>
 </td></tr>
-
+</table>
 <h3>The Rules Change</h3>
 
 So what's so bad about Link summoning, anyway?  I lived through Pendulum without quitting; what makes this different?
