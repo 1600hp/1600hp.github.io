@@ -43,7 +43,7 @@ Both of these decks are fun to play.  I made both very much my own.  I spent mon
 
 So what's so bad about Link summoning, anyway?  I lived through Pendulum without quitting; what makes this different?
 
-The difference is the rules change that's accompanying the introduction of Link monsters.  There are a number of subtleties, but the important point is that it is now basically impossible to have two extra deck monsters on your field without Link summoning.  If you've ever seen a Yu-Gi-Oh video I've made, that's kinda... all I do.  Both of the decks, my favorite things I've made in my years playing this game, are dead to the rules change.
+The difference is the rules change that's accompanying the introduction of Link monsters.  There are a number of subtleties, but the important point is that it is now basically impossible to have two extra deck monsters on your field without Link summoning.  If you've ever seen a Yu-Gi-Oh video I've made, that's kinda... all I do.  Both of those decks and most of my others, my favorite things about this game, are dead to the rules change.
 
 Now, I could work around it.  Maybe I could update the decks to incorporate Link (which would involve drastic and difficult changes), or maybe I can make something new that's my own in this new format.  Personally, I find both those options very unappealing.  Let's talk about why.
 
@@ -85,9 +85,9 @@ Why is this a problem?  Well it isn't really, but it is to someone who plays the
 
 Again, I don't really know if this will happen in the TCG metagame.  I hope it won't.  But I'm still not sticking around to find out.
 
-<h3>I'm Outa Here, But You Don't Have To Be</h3>
+<h3>I'm Out, But You Don't Have To Be</h3>
 
-Listed out like this, there's... A lot that can go wrong here.  The thing is, though, most of it isn't a problem for a lot of people.
+Listed out like this, there's... a lot that can go wrong here.  The thing is, though, most of it isn't a problem for a lot of people.
 
 I've kinda pigeonholed myself into the Johnny/Spike demographic, and looking back on it, Yu-Gi-Oh isn't really the place for that kind of player.  In retrospect, I'm surprised I lasted this long.
 
@@ -95,4 +95,4 @@ Most of the people I played with in person consistently are close to pure Spikes
 
 I wish them the best of luck.  I'm not that kind of player.
 
-I'm doing one last thing before uninstalling YGOpro.  I'm making a video as a memorium to my Yu-Gi-Oh career.  It's been fun.  I want to remember it.  You can find that video here.
+The last thing I'll do before uninstalling YGOpro is make a video as a summary of my Yu-Gi-Oh career.  It's been fun.  I want to remember it.  You can find that video <a href="https://youtu.be/eUr06R007Nw" target="_blank">here</a>.
